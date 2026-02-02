@@ -1,3 +1,4 @@
+#forloop questions
 #1 question
 
 # n = int(input("Enter number: "))
