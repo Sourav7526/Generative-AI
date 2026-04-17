@@ -37,11 +37,11 @@
 
 # # # question 4 (remove nth character)
 
-# def remove(s, ind):
-#     return s[:ind] + s[ind+1:]
+def remove(s, ind):
+    return s[:ind] + s[ind+1:]
 
-# string = input("enter a string")
-# index = int(input("enter index you want to remove"))
+string = input("enter a string")
+index = int(input("enter index you want to remove"))
 
-# result = remove(string, index)
-#print(result) 
+result = remove(string, index)
+print(result) 
