@@ -53,10 +53,22 @@
 
 
 
+
+# words = ["cat", "house", "sun", "tree", "a", "python"]
+# short_words = [word for word in words if len(word) < 4]
+# print(short_words)
+
 #question 7
 # l1=["he  llo","hi ","ho w"]
-# l1=[i.count(' ')for i in l1 if ''in i]
-# print (sum(l1))
+# l1 = [i.count(' ') for i in l1]
+# print(sum(l1))
+
+# l1 = ["he  llo", "hi ", "ho w"]
+# print(sum(s.count(' ') for s in l1))
+
+# text = "Hello world, how are you?"
+# space_count = text.count(' ')
+# print(space_count)
 
 
 
