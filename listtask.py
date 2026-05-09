@@ -27,7 +27,6 @@
 # print(len(l))
 
 
-
 # #question 4
 
 
